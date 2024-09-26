@@ -5,23 +5,26 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  
   - title: "CV"
     url: /cv/
+
+  - title: "Projects"
+    url: "https://docs.google.com/document/d/1Z9Yrc--5h7TYuxNb4_uT4Nr-H7FG1FAVFE_dewfXa1c/edit?usp=sharing"
+  
+  #- title: "Publications"
+  #  url: /publications/
+
+  #- title: "Talks"
+  #  url: /talks/    
+
+  #- title: "Teaching"
+  #  url: /teaching/    
     
-  - title: "Guide"
-    url: /markdown/
+
+        
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+    
+  #- title: "Guide"
+  #  url: /markdown/
