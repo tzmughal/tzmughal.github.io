@@ -7,10 +7,11 @@
 main:
   
   - title: "CV"
+    #url: /cv/
     url: /cv/
 
   - title: "Projects"
-    url: "https://docs.google.com/document/d/1Z9Yrc--5h7TYuxNb4_uT4Nr-H7FG1FAVFE_dewfXa1c/edit?usp=sharing"
+    url: /portfolio/
   
   #- title: "Publications"
   #  url: /publications/
