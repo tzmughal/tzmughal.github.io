@@ -8,7 +8,7 @@ main:
   
   - title: "CV"
     #url: /cv/
-    url: /files/CV.pdf
+    url: /cv/
 
   - title: "Projects"
     url: /projects/
