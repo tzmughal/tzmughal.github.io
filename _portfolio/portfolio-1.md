@@ -1,7 +1,34 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+---
+title: "Person Identification & Attribute Detection Using Hand Images"
+excerpt: "A CNN-based machine learning project for personal identification and attribute detection using hand images.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### Project: Person Identification and Attributes Detection Using Hand Images
+
+**Duration**: Apr 2023 - Jul 2024  
+**Institution**: Associated with Allama Iqbal Open University
+
+#### Project Overview:
+This project leverages **machine learning** and **computer vision** to develop a CNN-based model for personal identification and attribute detection from hand images.
+
+#### Key Features:
+- Developed a **Convolutional Neural Network (CNN)** model for detecting personal attributes and identifying individuals using hand images.
+- Implemented detection models for various attributes, including:
+  - Accessories (e.g., rings)
+  - Age and gender
+  - Hand orientation (e.g., left or right)
+  - Nail polish detection
+  - Skin color classification
+- **Deployed** the model using **Streamlit** for real-time predictions with a user-friendly interface.
+- Utilized **Python** and **TensorFlow** for model development, training, and testing.
+
+#### Tools & Technologies:
+- **Python**
+- **TensorFlow**
+- **Streamlit** (for deployment)
+- **Computer Vision**
+
+#### Image:
+
