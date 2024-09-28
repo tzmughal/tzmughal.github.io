@@ -1,6 +1,6 @@
 ---
 title: "Person Identification & Attribute Detection Using Hand Images"
-excerpt: "A CNN-based machine learning project for personal identification and attribute detection using hand images.<br/><img src='/images/500x300.png'>"
+excerpt: "A CNN-based machine learning project for personal identification and attribute detection using hand images.<br/><img src='/images/PI.jpg'>"
 collection: portfolio
 ---
 
