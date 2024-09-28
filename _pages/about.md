@@ -16,13 +16,8 @@ In addition to my technical expertise, I have significant experience in social m
 <a href="https://drive.google.com/file/d/1PWxhM5k-dUoI99p_sZX2lpHWIONsLwJD/preview
 " target="_blank">
   <button style="background-color:#5DADE2; border:none; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:12px;">
-    View CV
+    Resume
   </button>
 </a>
 
 
-<a href="https://docs.google.com/document/d/1PWxhM5k-dUoI99p_sZX2lpHWIONsLwJD/export?format=pdf" target="_blank">
-  <button style="background-color:#5DADE2; border:none; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:12px;">
-    Download CV
-  </button>
-</a>
