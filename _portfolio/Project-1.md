@@ -1,6 +1,6 @@
 ---
 title: "Person Identification & Attribute Detection Using Hand Images"
-excerpt: "A CNN-based machine learning project for personal identification and attribute detection using hand images.<br/><img src='/images/PI.jpg'>"
+excerpt: "A CNN-based ML project for Person Identification & Attribute detection.<br/><img src='/images/PI.jpg'>"
 collection: portfolio
 ---
 
@@ -10,10 +10,10 @@ collection: portfolio
 **Institution**: Associated with Allama Iqbal Open University
 
 #### Project Overview:
-This project leverages **machine learning** and **computer vision** to develop a CNN-based model for personal identification and attribute detection from hand images.
+This project leverages **machine learning** and **computer vision** to develop a CNN-based model for person identification and attribute detection from hand images.
 
 #### Key Features:
-- Developed a **Convolutional Neural Network (CNN)** model for detecting personal attributes and identifying individuals using hand images.
+- Developed a **Convolutional Neural Network (CNN)** model for detecting person attributes and identifying individuals using hand images.
 - Implemented detection models for various attributes, including:
   - Accessories (e.g., rings)
   - Age and gender
@@ -29,5 +29,8 @@ This project leverages **machine learning** and **computer vision** to develop a
 - **Streamlit** (for deployment)
 - **Computer Vision**
 
-#### Image:
+#### Images:
 
+<img src='/images/PI.jpg'>
+<img src='/images/PI.jpg'>
+<img src='/images/PI.jpg'>
