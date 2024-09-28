@@ -6,9 +6,9 @@
 
 main:
   
-  - title: "CV"
+  #- title: "CV"
     #url: /cv/
-    url: /cv/
+  #  url: /cv/
 
   - title: "Projects"
     url: /projects/
