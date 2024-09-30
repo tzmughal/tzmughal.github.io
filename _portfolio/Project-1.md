@@ -1,6 +1,6 @@
 ---
 title: "Person Identification & Attribute Detection Using Hand Images"
-excerpt: "A CNN-based ML project for Person Identification & Attribute detection.<br/><img src='/images/PI1.jpg'>"
+excerpt: "A CNN-based ML project for Person Identification & Attribute detection.<br/><img src='/images/PI1.png'>"
 collection: portfolio
 ---
 
@@ -31,7 +31,7 @@ This project leverages **Machine Learning** and **Computer Vision** to develop a
 
 #### Images:
 
-<img src='/images/PI1.jpg'><br><br>
-<img src='/images/PI2.jpg'><br><br>
-<img src='/images/PI3.jpg'><br><br>
-<img src='/images/PI4.jpg'>
+<img src='/images/PI1.png'><br><br>
+<img src='/images/PI2.png'><br><br>
+<img src='/images/PI3.png'><br><br>
+<img src='/images/PI4.png'>
