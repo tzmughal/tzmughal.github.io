@@ -31,6 +31,6 @@ This project leverages **machine learning** and **computer vision** to develop a
 
 #### Images:
 
-<img src='/images/PI.jpg'>
-<img src='/images/PI.jpg'>
+<img src='/images/PI.jpg'><br><br>
+<img src='/images/PI.jpg'><br><br>
 <img src='/images/PI.jpg'>
