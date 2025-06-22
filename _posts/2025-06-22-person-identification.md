@@ -5,7 +5,7 @@ title: 'Person and Attribute Identification using Hand Images'
 date: 2025-06-22 21:15:00
 categories: projects
 tags: [CNN, OpenCV, Streamlit]
-featured_image: '/img/posts/1-PI.png'
+featured_image: 'img/posts/03_rescue-themes-1130x864-2x.png'
 project_link: 'https://github.com/tzmughal/person-identification-using-hand-samples'
 button_icon: 'github'
 button_text: 'Visit Project'
