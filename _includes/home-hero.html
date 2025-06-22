@@ -27,25 +27,25 @@
 
           <div class="hero-buttons">
 
-          
-            {% if site.github_username != '' %}
-              <a href="https://github.com/{{ site.github_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-github fa-lg"></i>Github</button></a>
-            {% endif %}
-            {% if site.linkedin_username != '' %}
+           {% if site.linkedin_username != '' %}
               <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank">
                 <button class="btn btn-default btn-lg">
                   <i class="fa fa-linkedin fa-lg"></i> LinkedIn
                 </button>
               </a>
             {% endif %}
-            
-            {% if site.kaggle_username != '' %}
-              <a href="https://www.kaggle.com/{{ site.kaggle_username }}" target="_blank">
+           {% if site.github_username != '' %}
+              <a href="https://github.com/{{ site.github_username }}" target="_blank">
                 <button class="btn btn-default btn-lg">
-                  <i class="fa fa-line-chart fa-lg"></i> Kaggle
+                  <i class="fa fa-github fa-lg"></i> GitHub
                 </button>
               </a>
-            {% endif %}
+            {% endif %}  
+            <a href="https://docs.google.com/document/d/1qr9-YURF5iFTXgBS-WDrfpXfyMPB-jyAMaMSM7756Bs/export?format=pdf" target="_blank">
+              <button class="btn btn-default btn-lg">
+                <i class="fa fa-file-pdf-o fa-lg"></i> Resume
+              </button>
+            </a>
 
 
           </div>
