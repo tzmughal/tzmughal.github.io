@@ -15,15 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm M Talha Zahid."
 email: 'tzmughalpk@gmail.com'
-description: "Results-driven Data Scientist with 1+ year of experience in machine learning, computer vision, and generative AI. 
-Completed 220+ freelance projects with a proven track record of building ML models achieving 96% accuracy and 
-improving client engagement by 40%. Also experienced in Social Media Marketing & Management, combining 
-technical expertise with strategic thinking for measurable business results."
+description: "Data Scientist with 1+ year of experience in ML, Computer Vision, and Generative AI. Proven track record delivering 220+ projects with high accuracy and business impact."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tzmughal.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-linkedin_username: 'tzmughal'  # Just the username (not full URL)
+linkedin_username: 'tzmughal'  
 github_username: 'tzmughal'
-kaggle_username: 'tzmughal'      # Just the username
+# kaggle_username: 'tzmughal'     
 
 
 # Build settings
