@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Hand Image Biometric System'
 date: 2026-07-23 14:15:00
 categories: development
