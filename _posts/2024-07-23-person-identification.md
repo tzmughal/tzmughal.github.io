@@ -5,7 +5,7 @@ title: 'Hand Image Biometric System'
 date: 2024-07-23 14:15:00
 categories: development
 tags: CNN OpenCV Python Streamlit
-featured_image: '/img/posts/PI.png'
+featured_image: '/img/posts/pi.png'
 project_link: 'https://github.com/tzmughal/person-identification-using-hand-samples'
 button_icon: 'github'
 button_text: 'Visit Project'
