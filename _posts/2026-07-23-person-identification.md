@@ -1,13 +1,13 @@
 ---
 layout: inner
-position: right
-title: 'Bloc Jams Angular'
-date: 2016-02-20 14:15:00
+position: left
+title: 'Hand Image Biometric System'
+date: 2026-07-23 14:15:00
 categories: development
-tags: JavaScript AngularJS Sass Grunt
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
-project_link: 'https://github.com/jamigibbs/bloc-jams-angular'
+tags: CNN OpenCV Python Streamlit
+featured_image: '/img/posts/PI.png'
+project_link: 'https://github.com/tzmughal/person-identification-using-hand-samples'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'A digital music player built using AngularJS'
+lead_text: 'Person & Attributes Identification Using Palm & Hand Images'
 ---
