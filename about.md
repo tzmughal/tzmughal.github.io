@@ -34,25 +34,7 @@ A **Data Scientist** passionate about solving problems with AI. I specialize in 
 
 ---
 
-## 🧩 Highlight Projects
 
-### 🖐 Hand Image Biometric System  
-_CNN, OpenCV, Streamlit_  
-> Achieved 94% real-time identification accuracy in my final year project.
-
-### 🛍 Retail Sales Dashboard  
-_Power BI, SQL_  
-> Built a dashboard for 50K+ transactions. Uncovered patterns that led to 15% revenue increase.
-
-### 📝 Amazon Review Sentiment Analyzer  
-_NLP, TextBlob_  
-> Processed 100K+ reviews with 92% accuracy, delivering insights that boosted client satisfaction.
-
-### 🍽 Food Tray Detection  
-_YOLOv8, Label Studio_  
-> Deployed an image detection system for restaurant automation (89% accuracy).
-
----
 
 ## 🤖 Sample Code with Personality
 
