@@ -1,205 +1,96 @@
 ---
-#layout: inner
-#title: About
-#permalink: /about/
+layout: inner
+title: About
+permalink: /about/
 ---
-## Markdown
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+## 👋 Hello, I'm Muhammad Talha Zahid
 
-[Link to another page](/index.html).
+A **Data Scientist** passionate about solving problems with AI. I specialize in machine learning, computer vision, and generative AI — combining technical excellence with business thinking to deliver impact.
 
-There should be whitespace between paragraphs.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-{% highlight js %}
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-{% endhighlight %}
-
-{% highlight ruby %}
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+> *“Escape the Matrix.”*  
+> My guiding philosophy: Automate the boring. Think beyond the obvious.
 
 ---
 
-### Here is an unordered list:
+## 🚀 What I Do
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Wide image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-{% highlight txt %}
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-{% endhighlight %}
-
-{% highlight txt %}
-The final element.
-{% endhighlight %}
+- Built ML systems with **96%+ accuracy**
+- Completed **220+ freelance projects** on Fiverr (4.9⭐ rating)
+- Developed real-time apps using **OpenCV**, **LLMs**, and **Streamlit**
+- Deployed end-to-end pipelines on **Azure**, with CI/CD and monitoring
 
 ---
 
-## Syntax highlighting
+## 🛠️ Skills & Stack
 
-Jekyll has [built in support](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) for syntax highlighting of over 60 languages thanks to [Rouge](http://rouge.jneen.net/).
-
-To render a code block with syntax highlighting, surround your code as follows:
-
-{% highlight markdown %}
-{% raw %}
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-{% endraw %}
-{% endhighlight %}
-
-[Pygments](http://pygments.org/) styles are present under section 6.0 of `css/style.scss` for customization.
-
-### Examples
+| Area                  | Tools & Technologies                                                                 |
+|-----------------------|----------------------------------------------------------------------------------------|
+| 🧠 Programming         | `Python`, `SQL`, `Git`, `Streamlit`, `Flask`, `Jupyter`                               |
+| 📊 Data Science & ML   | `scikit-learn`, `XGBoost`, `TensorFlow`, `PyTorch`, `Pandas`, `NumPy`                 |
+| 🧬 AI & GenAI          | `Hugging Face`, `LangChain`, `LLMs`, `Vector DBs`, `NLP`, `OpenCV`, `YOLO`            |
+| 📊 Visualization       | `Power BI`, `Matplotlib`, `Seaborn`                                                   |
+| ☁️ Cloud & Deployment  | `Microsoft Azure`, `MLflow`, `Blob Storage`, `App Services`                          |
 
 ---
 
-#### Bash
+## 🧩 Highlight Projects
 
-{% highlight bash %}
->_ ssh -i ~/.ssh/id_rsa account@host.com
-account@host:~$
-$ var="my-value"
-$ echo $var
-my-value
-$ logout
-{% endhighlight %}
+### 🖐 Hand Image Biometric System  
+_CNN, OpenCV, Streamlit_  
+> Achieved 94% real-time identification accuracy in my final year project.
 
-#### HTML
+### 🛍 Retail Sales Dashboard  
+_Power BI, SQL_  
+> Built a dashboard for 50K+ transactions. Uncovered patterns that led to 15% revenue increase.
 
-{% highlight html %}
-<!DOCTYPE html>
-<html>
- <head>
-   <meta charset="UTF-8">
-   <title>title</title>
- </head>
- <body>
+### 📝 Amazon Review Sentiment Analyzer  
+_NLP, TextBlob_  
+> Processed 100K+ reviews with 92% accuracy, delivering insights that boosted client satisfaction.
 
- </body>
-</html>
-{% endhighlight %}
+### 🍽 Food Tray Detection  
+_YOLOv8, Label Studio_  
+> Deployed an image detection system for restaurant automation (89% accuracy).
 
-#### CSS
+---
 
-{% highlight css %}
-/*--------------------------------------------------------------
-	1.0 Defaults
---------------------------------------------------------------*/
+## 🤖 Sample Code with Personality
 
-@media (min-width: 1200px) {
-  .container {
-    width: 1200px;
-  }
-}
+> Because understanding code is easy. Understanding humans? Not so much.
 
-body {
-  background-color: #e9edf0;
-  @extend %opensans;
-  -webkit-font-smoothing: antialiased;
-}
-{% endhighlight %}
+```python
+def understand_humans(data):
+    if "logic" in data and "emotion" in data:
+        raise ValueError("Incompatible types detected.")
+    return "Just nod and deploy."
 
-#### YAML
+mood = {"logic": 80, "emotion": 95}
+print(understand_humans(mood))
 
-{% highlight yaml %}
-### Phantom settings
-paginate: 10
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
 
-#### Phantom Navigation menu
-enable_nav: true
-nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
-{% endhighlight %}
+
+### 🧠 Quick Facts
+
+- **Name:** Muhammad Talha Zahid  
+- **Role:** Data Scientist  
+- **Based in:** Rawalpindi, Pakistan  
+- **Known for:** Fast delivery, scalable AI systems, and solid coffee addiction ☕  
+
+---
+
+### 🎮 Fun Side
+
+- 🎮 Gamer and AI hobbyist  
+- 📸 Amateur photographer  
+- 🧪 Love experimenting with new tech — especially LLMs and computer vision  
+
+---
+
+### 📬 Let’s Connect
+
+Want to collaborate, hire, or just chat AI?
+
+👉 [Email me](mailto:tzmughalpk@gmail.com)  
+👉 [LinkedIn](https://www.linkedin.com/in/tzmughal/)  
+
+> **Thanks for scrolling this far. Now let’s build something awesome.**
