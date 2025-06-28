@@ -66,7 +66,7 @@ def understand_humans(data):
 
 mood = {"logic": 80, "emotion": 95}
 print(understand_humans(mood))
-
+```
 
 
 ### 🧠 Quick Facts
