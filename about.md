@@ -4,76 +4,93 @@ title: About
 permalink: /about/
 ---
 
-<h2 style="text-align: center;">Resume</h2>
+## 👋 Hello, I'm Muhammad Talha Zahid
 
-### Muhammad Talha Zahid
-<p style="text-align: center;">
-Rawalpindi, Pakistan | +92 3165143466 | <a href="mailto:tzmughalpk@gmail.com">tzmughalpk@gmail.com</a> | <a href="https://www.linkedin.com/in/tzmughal/">LinkedIn</a>
-</p>
+A **Data Scientist** passionate about solving problems with AI. I specialize in machine learning, computer vision, and generative AI — combining technical excellence with business thinking to deliver impact.
 
----
-
-### 💼 Summary
-
-Results-driven **Data Scientist** with 1+ year of experience in machine learning, computer vision, and generative AI. Completed 220+ freelance projects with a proven track record of building ML models achieving 96% accuracy and improving client engagement by 40%. Also experienced in Social Media Marketing & Management, combining technical expertise with strategic thinking for measurable business results.
+> *“Escape the Matrix.”*  
+> My guiding philosophy: Automate the boring. Think beyond the obvious.
 
 ---
 
-### 🧑‍💻 Work Experience
+## 🚀 What I Do
 
-**Fiverr – Remote**  
-_Data Scientist and Social Media Expert (08/2022 – Present)_
-
-- Completed 220+ freelance projects using Python, ML, and Computer Vision to solve real-world business problems.  
-- Boosted client engagement and organic traffic by up to 40% through SEO, content creation, and social media strategy.  
-- Maintained 4.9/5 client satisfaction rating while managing multiple concurrent projects and tight deadlines.
-
-**TenX – Islamabad**  
-_Data Science Internship (12/2024 – 01/2025)_
-
-- Built and deployed ML models with 96% accuracy after extracting and preprocessing data from SQL databases.  
-- Built Generative AI apps with Hugging Face, LangChain, and vector DBs, speeding up prototyping by 30%.  
-- Integrated OpenCV for object detection and automation tasks.  
-- Used Microsoft Azure services to train, deploy, and monitor ML models securely.
+- Built ML systems with **96%+ accuracy**
+- Completed **220+ freelance projects** on Fiverr (4.9⭐ rating)
+- Developed real-time apps using **OpenCV**, **LLMs**, and **Streamlit**
+- Deployed end-to-end pipelines on **Azure**, with CI/CD and monitoring
 
 ---
 
-### 🎓 Education
+## 🛠️ Skills & Stack
 
-**Allama Iqbal Open University – Islamabad**  
-_Bachelor of Science in Computer Science (2020–2024)_  
-**Final Year Project:** Achieved 94% identification accuracy in a biometric ML system using CNN and OpenCV, deployed via Streamlit.  
-**CGPA:** 3.52/4.0
-
-**Punjab Group of Colleges – Rawalpindi**  
-_Intermediate in Computer Science (2018–2020)_
-
-**Fauji Foundation College – Rawalpindi**  
-_Matric in Computer Science (2016–2018)_
+| Area                  | Tools & Technologies                                                                 |
+|-----------------------|----------------------------------------------------------------------------------------|
+| 🧠 Programming         | `Python`, `SQL`, `Git`, `Streamlit`, `Flask`, `Jupyter`                               |
+| 📊 Data Science & ML   | `scikit-learn`, `XGBoost`, `TensorFlow`, `PyTorch`, `Pandas`, `NumPy`                 |
+| 🧬 AI & GenAI          | `Hugging Face`, `LangChain`, `LLMs`, `Vector DBs`, `NLP`, `OpenCV`, `YOLO`            |
+| 📊 Visualization       | `Power BI`, `Matplotlib`, `Seaborn`                                                   |
+| ☁️ Cloud & Deployment  | `Microsoft Azure`, `MLflow`, `Blob Storage`, `App Services`                          |
 
 ---
 
-### 🛠️ Skills & Tools
+## 🧩 Highlight Projects
 
-**Programming & Analytics:** Python, SQL, Statistics, A/B Testing, Excel  
-**Data Science & AI:** ML, DL, NLP, Generative AI, Computer Vision, Visualization  
-**Models:** CNN, KNN, SVM, Decision Trees, Naive Bayes, Clustering, Neural Nets  
-**Libraries:** TensorFlow, PyTorch, scikit-learn, Hugging Face, OpenCV, YOLO  
-**Platforms:** Microsoft Azure, Power BI, MLflow  
-**Dev & Deployment:** Git, Streamlit, Flask, MySQL, Web Scraping, Jupyter
+### 🖐 Hand Image Biometric System  
+_CNN, OpenCV, Streamlit_  
+> Achieved 94% real-time identification accuracy in my final year project.
+
+### 🛍 Retail Sales Dashboard  
+_Power BI, SQL_  
+> Built a dashboard for 50K+ transactions. Uncovered patterns that led to 15% revenue increase.
+
+### 📝 Amazon Review Sentiment Analyzer  
+_NLP, TextBlob_  
+> Processed 100K+ reviews with 92% accuracy, delivering insights that boosted client satisfaction.
+
+### 🍽 Food Tray Detection  
+_YOLOv8, Label Studio_  
+> Deployed an image detection system for restaurant automation (89% accuracy).
 
 ---
 
-### 🚀 Projects
+## 🤖 Sample Code with Personality
 
-- **Hand Image Biometric System** *(Final Year Project)* – Real-time authentication with 94% accuracy using CNN & OpenCV  
-- **Retail Sales Dashboard** – Power BI dashboard for 50K+ transactions, increased sales insights by 15%  
-- **Amazon Review Sentiment Analyzer** – Processed 100K+ reviews with 92% accuracy, improved satisfaction by 23%  
-- **Food Tray Detection System** – Custom YOLOv8 model with 89% accuracy for restaurant automation  
-- **Gesture-Controlled Mouse** – Hands-free control via MediaPipe & OpenCV with 95% gesture accuracy  
+> Because understanding code is easy. Understanding humans? Not so much.
+
+```python
+def understand_humans(data):
+    if "logic" in data and "emotion" in data:
+        raise ValueError("Incompatible types detected.")
+    return "Just nod and deploy."
+
+mood = {"logic": 80, "emotion": 95}
+print(understand_humans(mood))
+
+
+
+### 🧠 Quick Facts
+
+- **Name:** Muhammad Talha Zahid  
+- **Role:** Data Scientist  
+- **Based in:** Rawalpindi, Pakistan  
+- **Known for:** Fast delivery, scalable AI systems, and solid coffee addiction ☕  
 
 ---
 
-### 🌐 Languages
+### 🎮 Fun Side
 
-**English**, **Urdu**
+- 🎮 Gamer and AI hobbyist  
+- 📸 Amateur photographer  
+- 🧪 Love experimenting with new tech — especially LLMs and computer vision  
+
+---
+
+### 📬 Let’s Connect
+
+Want to collaborate, hire, or just chat AI?
+
+👉 [Email me](mailto:tzmughalpk@gmail.com)  
+👉 [LinkedIn](https://www.linkedin.com/in/tzmughal/)  
+
+> **Thanks for scrolling this far. Now let’s build something awesome.**
