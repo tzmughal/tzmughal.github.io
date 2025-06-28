@@ -4,16 +4,25 @@ title: About
 permalink: /about/
 ---
 
-## 👋 Hello, I'm Muhammad Talha Zahid
-
-A **Data Scientist** passionate about solving problems with AI. I specialize in machine learning, computer vision, and generative AI — combining technical excellence with business thinking to deliver impact.
-
-> *“Escape the Matrix.”*  
-> My guiding philosophy: Automate the boring. Think beyond the obvious.
+### 🧠 From Prototype to Production — AI That Actually Works
 
 ---
 
-## 🚀 What I Do
+### 👋 Hello, I'm Muhammad Talha Zahid
+
+A **Data Scientist** passionate about solving problems with AI. I specialize in machine learning, computer vision, and generative AI — combining technical excellence with business thinking to deliver real-world impact.
+
+> *“Escape the Matrix.”*  
+
+---
+
+### 📖 How It Started
+
+I didn’t plan to become a data scientist — I just wanted to automate a boring spreadsheet. One model led to another, and before I knew it, I was building AI systems that made people’s lives easier. Today, I help businesses unlock value with machine learning and automation.
+
+---
+
+### 🚀 What I Do
 
 - Built ML systems with **96%+ accuracy**
 - Completed **220+ freelance projects** on Fiverr (4.9⭐ rating)
@@ -22,7 +31,7 @@ A **Data Scientist** passionate about solving problems with AI. I specialize in 
 
 ---
 
-## 🛠️ Skills & Stack
+### 🛠️ Skills & Stack
 
 | Area                  | Tools & Technologies                                                                 |
 |-----------------------|----------------------------------------------------------------------------------------|
@@ -36,35 +45,25 @@ A **Data Scientist** passionate about solving problems with AI. I specialize in 
 
 
 
-## 🤖 Sample Code with Personality
+### 🤖 Sample Code with Personality
 
 > Because understanding code is easy. Understanding humans? Not so much.
 
 ```python
-def understand_humans(data):
-    if "logic" in data and "emotion" in data:
-        raise ValueError("Incompatible types detected.")
-    return "Just nod and deploy."
+print("developer hoon, feelings develop karta hoon")
 
-mood = {"logic": 80, "emotion": 95}
-print(understand_humans(mood))
 ```
 
 
-### 🧠 Quick Facts
-
-- **Name:** Muhammad Talha Zahid  
-- **Role:** Data Scientist  
-- **Based in:** Rawalpindi, Pakistan  
-- **Known for:** Fast delivery, scalable AI systems, and solid coffee addiction ☕  
-
----
 
 ### 🎮 Fun Side
 
-- 🎮 Gamer and AI hobbyist  
-- 📸 Amateur photographer  
-- 🧪 Love experimenting with new tech — especially LLMs and computer vision  
+- 🎮 Gamer — into strategy, simulations, and AI-powered games  
+- 📸 Amateur photographer — especially into macro and street shots  
+- ✈️ Traveler — exploring new places, cultures, and food scenes  
+- 🧪 Tech tinkerer — always experimenting with LLMs & computer vision  
+- ☕ Caffeine enthusiast — code runs better with coffee  
+
 
 ---
 
